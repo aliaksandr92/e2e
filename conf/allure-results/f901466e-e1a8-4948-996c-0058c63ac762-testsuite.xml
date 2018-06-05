@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1467888090104" stop="1467888094696">
+	<name>Test user registration page</name>
+	<title>Test user registration page</title>
+	<test-cases>
+		<test-case start="1467888090105" stop="1467888091461" status="passed">
+			<name>Success creating</name>
+			<title>Success creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467888091463" stop="1467888092284" status="passed">
+			<name>Success not creating</name>
+			<title>Success not creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467888092285" stop="1467888092988" status="passed">
+			<name>Success delete</name>
+			<title>Success delete</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467888092988" stop="1467888093681" status="passed">
+			<name>Success edit</name>
+			<title>Success edit</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467888093681" stop="1467888094153" status="passed">
+			<name>Show removing window</name>
+			<title>Show removing window</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467888094154" stop="1467888094695" status="passed">
+			<name>Close removing window</name>
+			<title>Close removing window</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

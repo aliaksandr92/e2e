@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1467830990751" stop="1467830994306">
+	<name>Test user registration page</name>
+	<title>Test user registration page</title>
+	<test-cases>
+		<test-case start="1467830990751" stop="1467830992132" status="passed">
+			<name>Success creating</name>
+			<title>Success creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467830992134" stop="1467830992962" status="passed">
+			<name>Success not creating</name>
+			<title>Success not creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467830992963" stop="1467830993683" status="passed">
+			<name>Success delete</name>
+			<title>Success delete</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467830993683" stop="1467830994305" status="passed">
+			<name>Success edit</name>
+			<title>Success edit</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

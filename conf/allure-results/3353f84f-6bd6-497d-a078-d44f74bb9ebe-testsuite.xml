@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1467913416117" stop="1467913416129">
+	<name>Test user registration page</name>
+	<title>Test user registration page</title>
+	<test-cases>
+		<test-case start="1467913416117" stop="1467913416125" status="failed">
+			<name>encountered a declaration exception</name>
+			<title>encountered a declaration exception</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>ReferenceError: that is not defined</message>
+				<stack-trace>ReferenceError: that is not defined
+    at new Form (/Users/aleksandrmedvedev/Desktop/e2e/test/protractor/pages/form.js:20:5)
+    at Suite.&lt;anonymous&gt; (/Users/aleksandrmedvedev/Desktop/e2e/test/protractor/specs/userForm.spec.js:13:16)
+    at addSpecsToSuite (/Users/aleksandrmedvedev/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:833:25)
+    at Env.describe (/Users/aleksandrmedvedev/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:802:7)
+    at jasmineInterface.describe (/Users/aleksandrmedvedev/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3375:18)
+    at Object.&lt;anonymous&gt; (/Users/aleksandrmedvedev/Desktop/e2e/test/protractor/specs/userForm.spec.js:10:1)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:456:32)
+    at tryModuleLoad (module.js:415:12)</stack-trace>
+			</failure>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

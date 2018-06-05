@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1467831202434" stop="1467831206187">
+	<name>Test user registration page</name>
+	<title>Test user registration page</title>
+	<test-cases>
+		<test-case start="1467831202435" stop="1467831203791" status="passed">
+			<name>Success creating</name>
+			<title>Success creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467831203793" stop="1467831204638" status="passed">
+			<name>Success not creating</name>
+			<title>Success not creating</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467831204639" stop="1467831205444" status="passed">
+			<name>Success delete</name>
+			<title>Success delete</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1467831205445" stop="1467831206185" status="failed">
+			<name>Success edit</name>
+			<title>Success edit</title>
+			<description></description>
+			<labels>
+			</labels>
+			<parameters>
+			</parameters>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>Expected undefined to equal &apos;User1&apos;.</message>
+				<stack-trace>Error: Failed expectation
+    at Object.&lt;anonymous&gt; (/Users/aleksandrmedvedev/Desktop/e2e/test/protractor/specs/userForm.spec.js:59:35)
+    at /Users/aleksandrmedvedev/node_modules/jasminewd2/index.js:96:23
+    at new Promise (/Users/aleksandrmedvedev/node_modules/selenium-webdriver/lib/promise.js:1043:7)
+    at controlFlowExecute (/Users/aleksandrmedvedev/node_modules/jasminewd2/index.js:82:18)
+    at TaskQueue.execute_ (/Users/aleksandrmedvedev/node_modules/selenium-webdriver/lib/promise.js:2790:14)
+    at TaskQueue.executeNext_ (/Users/aleksandrmedvedev/node_modules/selenium-webdriver/lib/promise.js:2773:21)
+    at asyncRun (/Users/aleksandrmedvedev/node_modules/selenium-webdriver/lib/promise.js:2697:25)
+    at /Users/aleksandrmedvedev/node_modules/selenium-webdriver/lib/promise.js:639:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+			</failure>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
